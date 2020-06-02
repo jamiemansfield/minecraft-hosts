@@ -1,0 +1,8 @@
+#
+# minecraft-hosts (https://github.com/jamiemansfield/minecraft-hosts)
+# Tracking Domain Block List
+#
+
+bstats.org
+mcmc.dev
+mcstats.org

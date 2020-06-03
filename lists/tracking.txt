@@ -6,3 +6,4 @@
 bstats.org
 mcmc.dev
 mcstats.org
+metrics.shmeeb.net

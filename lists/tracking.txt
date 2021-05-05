@@ -1,6 +1,7 @@
 # minecraft-hosts - Tracking Domains
 # License: CC0
 
+auxilium.ftb.team
 bstats.org
 mcmc.dev
 mcstats.org

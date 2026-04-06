@@ -9,3 +9,4 @@ mcmc.dev
 mcstats.org
 metrics.shmeeb.net
 openeye.openmods.info
+posthog.modrinth.com
